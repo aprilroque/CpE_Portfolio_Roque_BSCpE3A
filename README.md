@@ -39,5 +39,7 @@ https://github.com/aprilroque/-Mini-Audio-Amplifier-
 
 https://github.com/aprilroque/-Eco-Friendly-Beach-Villa-with-Wind-and-Solar-Systems
 
+https://github.com/aprilroque/MOD-8-Synchronous-Counter-Tina
+
 # Contact Email:
 apriljoyceroque@gmail.com
