@@ -19,10 +19,13 @@ I am a dedicated and hardworking student who values teamwork, creativity, and co
 ---
 
 # Skills 
-- HTML
-- CSS
-- JavaScript
-- Python
+-Computer Hardware Troubleshooting
+-Basic Programming (C++, Python, Java)
+-Networking Fundamentals
+-Cybersecurity Basics
+-Microsoft Office Applications
+-Problem Solving and Critical Thinking
+-Team Collaboration and Communication
 
 ---
 # Projects
